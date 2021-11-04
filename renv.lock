@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.1.1",
+    "Version": "4.0.4",
     "Repositories": [
       {
         "Name": "CRAN",
@@ -141,13 +141,6 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "043daa786f4d254f0031534150e28d42"
-    },
-    "wesanderson": {
-      "Package": "wesanderson",
-      "Version": "0.3.6",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "42f92f1e9ef722355959ec1f7c459636"
     },
     "xfun": {
       "Package": "xfun",
